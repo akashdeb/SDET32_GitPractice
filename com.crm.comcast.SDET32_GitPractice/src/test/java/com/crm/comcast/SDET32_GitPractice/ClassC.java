@@ -9,8 +9,7 @@ public class ClassC {
 		
 		System.out.println("Fifth Push");
 		System.out.println("Seventh Push");
-		
-	
+			
 	}
 
 }
