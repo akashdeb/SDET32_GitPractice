@@ -8,6 +8,8 @@ public class ClassC {
 	public void demoTest() {
 		
 		System.out.println("Fifth Push");
+		System.out.println("Seventh Push");
+
 		
 	}
 
