@@ -8,6 +8,8 @@ public class ClassATest {
 	public void demoTest() {
 		
 		System.out.println("First Changed Push for jenkins");
+	        System.out.println("First Changed Push for jenkins2");
+
 		
 	}
 
