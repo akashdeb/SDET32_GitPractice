@@ -15,6 +15,12 @@ public class ClassATest {
 
 		System.out.println("First Push");
 		
+		System.out.println("First Changed Push for jenkins");
+	    System.out.println("First Changed Push for jenkins2");
+        System.out.println("First Changed Push for jenkins2");
+
+
+		
 	}
 
 }
